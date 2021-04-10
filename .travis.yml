@@ -1,7 +1,5 @@
 language: java
+script: mvn clean test
 jdk:
   - adopt-openj9-11
 
-
-notifications:
-  email: cquipildor4@gmail.com
