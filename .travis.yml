@@ -1,6 +1,6 @@
 language: java
 jdk:
-  - 1.8.0_261
+  - adopt-openj9-11
 
 
 notifications:
