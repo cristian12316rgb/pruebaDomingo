@@ -1,4 +1,4 @@
 language: java
 script: mvn clean test
 jdk:
-  - adopt-openj0-11
+  - adopt-openj9-11
