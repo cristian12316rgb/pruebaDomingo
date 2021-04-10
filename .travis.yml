@@ -1,4 +1,5 @@
 language: java
 jdk:
   -adopt-openj9-11
-notifications : cquipildor4@gmail.com
+notifications :
+  email: cquipildor4@gmail.com
