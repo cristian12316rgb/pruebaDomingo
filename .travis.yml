@@ -4,3 +4,5 @@ script: mvn clean test
 
 jdk:
   - openjdk11
+notifications:
+    email: cquipildor4@gmail.com
